@@ -2,4 +2,6 @@ console.log("Hello");
 
 console.log('Good Bye.');
 
-console.log("Bye");
+const number = 10;
+
+console.log(number);
