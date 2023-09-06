@@ -1,0 +1,21 @@
+{
+  "name": "testrun",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbranch6432/TestRun.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jbranch6432/TestRun/issues"
+  },
+  "homepage": "https://github.com/jbranch6432/TestRun#readme"
+}
